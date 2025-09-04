@@ -1,0 +1,11 @@
+opencv-python
+numpy
+rembg
+pillow
+onnxruntime
+python-multipart
+uvicorn
+fastapi
+aiofiles
+pydantic
+fastapi-utils
